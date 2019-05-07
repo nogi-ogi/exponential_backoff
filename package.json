@@ -1,0 +1,19 @@
+{
+  "name": "three",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fetch-mock": "^7.3.3",
+    "node-fetch": "^2.5.0"
+  },
+  "devDependencies": {
+    "jest": "^24.8.0",
+    "jest-fetch-mock": "^2.1.2"
+  }
+}
